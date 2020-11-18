@@ -1,6 +1,6 @@
 ##TO_DO-List
 
-> *An interactive TO-DO List*  
+> *You can add and cross out items in your list*  
 
 ### [Create your own list!](https://asj-code.github.io/TO_DO-List/)
 
