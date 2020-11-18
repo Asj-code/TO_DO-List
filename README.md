@@ -1,6 +1,6 @@
 ##TO_DO-List
 
-> *You can add and cross out items in your list*  
+> *You can add items in your list with a click or pressing the enter key in yor keyboard, and also cross out them.*  
 
 ### [Create your own list!](https://asj-code.github.io/TO_DO-List/)
 
