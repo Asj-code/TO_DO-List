@@ -2,7 +2,7 @@
 
 > *An interactive TO-DO List*  
 
-### [Take a look!](https://asj-code.github.io/TO_DO-List/)
+### [Create your own list!](https://asj-code.github.io/TO_DO-List/)
 
 #### Programming languages used to create it:
 :small_orange_diamond:  HTML5
